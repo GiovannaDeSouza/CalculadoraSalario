@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4BF9E3-BCBD-4D6A-AE8F-F79E3C381FCD}|FuncSala\\FuncSala.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\funcsala\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4BF9E3-BCBD-4D6A-AE8F-F79E3C381FCD}|FuncSala\\FuncSala.csproj|solutionrelative:funcsala\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\views\\funcionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|c:\\users\\senai3em\\desktop\\atividade4\\salariocalc\\salariocalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574009ED-88C3-4383-B0A4-61488685666A}|SalarioCalc\\SalarioCalc.csproj|solutionrelative:salariocalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SalarioCalc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SalarioCalc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:06:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalarioCalc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalarioCalc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:02:31.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Funcionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalarioCalc\\Views\\Funcionario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Funcionario\\Index.cshtml",
+              "RelativeToolTip": "SalarioCalc\\Views\\Funcionario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:00:19.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalarioCalc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalarioCalc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T17:54:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\FuncSala\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FuncSala\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\FuncSala\\UnitTest1.cs",
+              "RelativeToolTip": "FuncSala\\UnitTest1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:52:14.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "SalarioCalc\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "SalarioCalc\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:50:42.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalarioCalc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalarioCalc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:50:10.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "SalarioCalc\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Models\\Funcionario.cs",
+              "RelativeToolTip": "SalarioCalc\\Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:49:10.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Program.cs",
+              "RelativeDocumentMoniker": "SalarioCalc\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI3EM\\Desktop\\Atividade4\\SalarioCalc\\SalarioCalc\\Program.cs",
+              "RelativeToolTip": "SalarioCalc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:47:50.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

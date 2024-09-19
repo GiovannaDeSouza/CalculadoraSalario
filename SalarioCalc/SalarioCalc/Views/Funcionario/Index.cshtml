@@ -1,0 +1,48 @@
+﻿@model SalarioCalc.Models.Funcionario
+
+<h2>Cálculo do Custo do Funcionário</h2>
+<hr />
+<div class="d-flex justify-content-around">
+    <div class="col-5">
+        <form asp-action="Calcular">
+            <div class="form-group">
+                <label for="Nome">Nome</label>
+                <input type="text" class="form-control" id="Nome" name="Nome" value="@Model?.Nome" required placeholder="Nome do Funcionario" maxlength="25" />
+            </div>
+
+            <div class="form-group">
+                <label for="SalarioClt">Salário Base</label>
+                <input type="number" class="form-control" id="SalarioClt" name="SalarioClt" step="1" value="@Model?.SalarioClt" required placeholder="Valor do Sálario Base" />
+            </div>
+
+            <div class="form-group">
+                <label for="Desconto">Desconto</label>
+                <input type="number" class="form-control" id="Desconto" name="Desconto" step="1" value="@Model?.Desconto" required placeholder="Total de Descontos do funcionario" />
+            </div>
+
+            <div class="form-group">
+                <label for="Beneficio">Benefício</label>
+                <input type="number" class="form-control" id="Beneficio" name="Beneficio" step="1" value="@Model?.Beneficio" required placeholder="Total de Benefícios do funcionario" />
+            </div>
+
+            <button type="submit" class="btn btn-primary mt-3 col-12">Calcular</button>
+        </form>
+    </div>
+
+    <div class="col-5">
+        @if (ViewData["CustoFuncionario"] != null)
+        {
+            <div class="d-flex justify-content-between">
+                <label for="CustoFuncionario" class="mr-2">
+                    Custo Final do Funcionário:
+                </label>
+                <span> @Model.Nome</span>
+            </div>
+
+            <div>
+                <input type="text" class="form-control" id="CustoFuncionario" readonly value="@ViewData["CustoFuncionario"].ToString()" />
+            </div>
+
+        }
+    </div>
+</div>
